@@ -143,6 +143,4 @@ The packet traversed 23 hops to reach the destination, with the route passing th
 
 ---
 
-## Methodology
 
-### Scan Parameters
